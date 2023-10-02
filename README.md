@@ -26,10 +26,9 @@
 <p><a href="https://sammysworld.org/the-internet-vs-the-airwaves/">Profile: WFMU</a> (SW, 2023)
 <p><a href="https://vanderbilthustler.com/2022/11/28/return-to-hot-chicken-yo-la-tengos-i-can-hear-the-heart-beating-as-one-turns-25/">Review: Yo La Tengo's "I Can Hear..."</a> (Vanderbilt Hustler, 2023)
 <p><a href="https://sammysworld.org/the-internet-vs-the-airwaves/">Profile: WFMU</a> (SW, 2023)
-<p><a href="https://sammysworld.org/the-internet-vs-the-airwaves/">Profile: WFMU</a> (SW, 2023)
 
 <p>&nbsp;</p>
- <p>film</p>
+<p>film</p>
 <p><a href="https://sammysworld.org/nowhere-and-the-inversion-of-the-teen-movie/">Review: Gregg Araki's Nowhere</a> (SW, 2023)
 <p>&nbsp;</p>
  <p>news 4 Vanderbilt Hustler</p>
