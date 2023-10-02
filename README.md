@@ -20,8 +20,7 @@
 
 <body>
 <p>&nbsp;</p>
-<p>Ben Arthur:</p>
-<p>&nbsp;</p>
+<p>Ben Arthur</p>
 <p>music</p>
 <p><a href="https://href.li/?https://flamingomag.com/2023/07/13/tedeschi-trucks-band-american-music/">Review: Tedeschi Trucks Band Show</a> (Flamingo, 2023)</p>
 <p><a href="https://vanderbilthustler.com/2023/06/10/exploring-the-world-of-space-jazz-with-rich-ruth/">Profile: Rich Ruth</a> (Vanderbilt Hustler, 2023)</p>
