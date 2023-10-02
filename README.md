@@ -1,3 +1,21 @@
+<style type="text/css">
+<!--
+ p
+	{margin-bottom:.0002pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0.5in; margin-right:0.5in; margin-top:0in;}
+	
+	a:link { color: Navy; }
+    a:hover {
+     background-color: #99CCFF;
+     text-decoration: none;
+     color: Black;
+     }
+     a:visited {color: Gray;}
+-->
+</style>
+
 <body>
 <p>&nbsp;</p>
 <p>Ben Arthur</p>
