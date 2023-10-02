@@ -1,4 +1,3 @@
-# benarthur0.github.io
 <style type="text/css">
 <!--
  p
@@ -47,5 +46,3 @@
 
 <p>&nbsp;</p>
 <p>benjaminarthur9 (at) bellsouth.net</p>
-</body>
-</html>
