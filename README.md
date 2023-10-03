@@ -11,8 +11,7 @@
      background-color: #99CCFF;
      text-decoration: none;
      color: Black;
-     }
-     a:visited {color: Gray;}
+
 -->
 </style>
 
