@@ -42,7 +42,3 @@
 <p>&nbsp;</p>
 <p>benjaminarthur9 (at) bellsouth.net</p>
 
-_config.yml
-name: luaphacim's site
-title: null
-
